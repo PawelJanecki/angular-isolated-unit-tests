@@ -1,12 +1,13 @@
 # Unit testing in Angular
 
-Examples:
+Examples of tests for:
 - pipe
-- service
 - component
-- mocking to isolated code
+- service with mocking
 
 To get started, clone the repo or download it
 
+```sh
 npm install
 npm test
+```
