@@ -1,5 +1,10 @@
-# Pluralsight's Unit Testing in Angular Course
-This course is up to date.
+# Unit testing in Angular
+
+Examples:
+    - pipe
+    - service
+    - component
+    - mocking to isolated code
 
 To get started, clone the repo or download it
 
